@@ -14,8 +14,8 @@ This is an automated bot to help you complete tasks, check in daily, and partici
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/fintopio-airdrop-bot.git
-   cd fintopio-airdrop-bot
+   git clone https://github.com/ShadowScripts1/TG-fintopio.git
+   cd TG-fintopio
    ```
 
 2. Install dependencies:
